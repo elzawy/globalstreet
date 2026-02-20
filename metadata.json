@@ -1,0 +1,7 @@
+{
+  "name": "GLOBAL STREET - JEDDAH",
+  "description": "A comprehensive system for tracking POS sales, cash collections, and machine TIDs with Z-report image attachments. Includes admin reporting and multi-user data entry interfaces.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
