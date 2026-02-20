@@ -1,0 +1,2 @@
+# globalstreet
+global street
